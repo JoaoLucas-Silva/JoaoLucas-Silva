@@ -7,6 +7,14 @@
 
 ---
 
-<div> 
-  <a href="https://www.linkedin.com/in/joão-lucas-silva-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/joão-lucas-silva-" target="_blank"> 
+    <img src="./assets/badges/contact/linkedin.svg" alt="LinkedIn" /> 
+  </a>
+  <a href = "mailto:silva.joaolucas@outlook.com.br" target="_blank"> 
+    <img src="./assets/badges/contact/gmail.svg" alt="Email" />
+  </a>
+  <a href="https://github.com/JoaoLucas-Silva" target="_blank"> 
+    <img src="./assets/badges/contact/github.svg" alt="GitHub" />
+  </a>
 </div>
