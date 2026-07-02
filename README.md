@@ -1,6 +1,9 @@
 ## Bem vindos ao meu perfil, eu sou o João Lucas !
 
-![João Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLucas-Silva&show_icons=true&theme=tokyonight&cache_seconds=7200) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucas-Silva&layout=compact&include_all_commits=true&cache_seconds=7200)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=josewynder&theme=omni" alt="Estatísticas do GitHub" height="156" />
+  <img src="https://streak-stats.demolab.com?user=JoaoLucas-Silva&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Sequência de contribuições no GitHub" height="156" />
+</div>
 
 ---
 
