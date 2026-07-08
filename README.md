@@ -9,12 +9,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joão-lucas-silva-" target="_blank"> 
-    <img src="./assets/badges/contact/linkedin.svg" alt="LinkedIn" /> 
+    <img src="https://github.com/JoseWynder/JoseWynder/blob/main/assets/badges/contact/linkedin.svg" alt="LinkedIn" /> 
   </a>
   <a href = "mailto:silva.joaolucas@outlook.com.br" target="_blank"> 
-    <img src="./assets/badges/contact/gmail.svg" alt="Email" />
+    <img src="https://github.com/JoseWynder/JoseWynder/blob/main/assets/badges/contact/gmail.svg" alt="Email" />
   </a>
   <a href="https://github.com/JoaoLucas-Silva" target="_blank"> 
-    <img src="./assets/badges/contact/github.svg" alt="GitHub" />
+    <img src="https://github.com/JoseWynder/JoseWynder/blob/main/assets/badges/contact/github.svg" alt="GitHub" />
   </a>
 </div>
