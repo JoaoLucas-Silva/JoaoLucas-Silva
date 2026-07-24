@@ -5,8 +5,7 @@
 </div>
 
 <p align="center">
-  Desenvolvedor com foco em <strong>Backend</strong>. Tenho experiência prática com desenvolvimento de aplicações web, APIs REST,
-  integração com bancos de dados e sistemas corporativos. <br>
+  Desenvolvedor <strong>Backend</strong>.
 </p>
 
 ---
