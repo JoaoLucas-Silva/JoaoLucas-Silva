@@ -36,16 +36,10 @@ Meu foco principal e área de maior interesse é o **desenvolvimento Backend**, 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Database Skills" />
 </p>
-<p>
-  <strong>Relacionais:</strong> PostgreSQL, MySQL &nbsp;|&nbsp; <strong>Não relacionais:</strong> MongoDB
-</p>
 
 ### Ferramentas e Infraestrutura
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker&theme=dark" alt="Tools" />
-</p>
-<p>
-  Git • GitHub • Linux • Docker • APIs REST • Autenticação • Arquitetura de Sistemas
 </p>
 
 ---
