@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  Desenvolvedor <strong>Backend</strong>.
+  <strong>Software Engineer</strong>.
 </p>
 
 ---
